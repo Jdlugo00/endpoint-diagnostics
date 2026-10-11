@@ -1,0 +1,3 @@
+# Generated reports contain machine and user details
+EndpointDiag_*.html
+*.html
